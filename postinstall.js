@@ -11,4 +11,4 @@ var filesToCopy = [
     "WebCamInterface.dll",
 ];
 
-gentlyCopy(filesToCopy, process.env.INIT_CWD);
+gentlyCopy(filesToCopy, process.env.INIT_CWD,{overwrite:true});
