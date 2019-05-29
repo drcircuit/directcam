@@ -1,10 +1,11 @@
 {
   "name": "directcam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small library to access DirectShow compatible cameras through NodeJS",
   "main": "main.js",
   "scripts": {
-    "test": "node .\\node_modules\\mocha\\bin\\mocha test.js"
+    "test": "node .\\node_modules\\mocha\\bin\\mocha test.js",
+    "postinstall": "node ./postinstall.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,8 @@
   },
   "homepage": "https://github.com/drcircuit/directcam#readme",
   "dependencies": {
-    "edge-js": "^11.3.1"
+    "edge-js": "^11.3.1",
+    "gently-copy": "^3.2.0"
   },
   "devDependencies": {
     "mocha": "^6.1.4"
