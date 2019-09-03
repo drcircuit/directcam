@@ -29,6 +29,6 @@ Camera Object:
     Moniker: string (device reference)
 }
 ```
-### directcam.grab(moniker, callback) []
+### directcam.grab(moniker, callback) [frame]
 returns an image frame to the callback function
 
