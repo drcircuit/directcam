@@ -1,1 +1,1 @@
-[{"Name":"Microsoft Camera Front","Moniker":"@device:pnp:\\\\?\\display#int3470#4&289d63ab&0&uid13424#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bf89b5a5-61f7-4127-a279-e187013d7caf}"},{"Name":"Microsoft Camera Rear","Moniker":"@device:pnp:\\\\?\\display#int3470#4&289d63ab&0&uid13424#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{7c9bbcea-909c-47b3-8cf9-2aa8237e1d4b}"}]
+[{"Name":"HP Full-HD Camera","Moniker":"@device:pnp:\\\\?\\usb#vid_04f2&pid_b62f&mi_00#6&2a7bcd8c&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"}]
