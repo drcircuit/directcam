@@ -19,7 +19,7 @@ dcam.cameras(null, function(err, cams){
 - All callback functions need to be in function(err, result){} format
 
 ### directcam.cameras(args, callback) [Camera]
-returns an array of camera objects in the system to the callbac
+returns an array of camera objects in the system to the callback function
 
 Camera Object:
 ```javascript
